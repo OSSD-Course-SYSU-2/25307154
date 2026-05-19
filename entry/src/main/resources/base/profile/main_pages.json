@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/QuizPage",
+    "pages/ProgressPage",
+    "pages/StatsPage",
+    "pages/VocabListPage",
+    "pages/FavoritePage"
+  ]
+}

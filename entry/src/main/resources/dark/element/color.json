@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "bg_page",
+      "value": "#121212"
+    },
+    {
+      "name": "bg_card",
+      "value": "#1E1E1E"
+    },
+    {
+      "name": "bg_option_default",
+      "value": "#1E1E1E"
+    },
+    {
+      "name": "bg_selected",
+      "value": "#1A237E"
+    },
+    {
+      "name": "bg_correct",
+      "value": "#1B5E20"
+    },
+    {
+      "name": "bg_wrong",
+      "value": "#B71C1C"
+    },
+    {
+      "name": "bg_accent",
+      "value": "#42A5F5"
+    },
+    {
+      "name": "bg_accent_secondary",
+      "value": "#FFB74D"
+    },
+    {
+      "name": "bg_tag",
+      "value": "#424242"
+    },
+    {
+      "name": "text_primary",
+      "value": "#E0E0E0"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#9E9E9E"
+    },
+    {
+      "name": "text_correct",
+      "value": "#66BB6A"
+    },
+    {
+      "name": "text_wrong",
+      "value": "#EF5350"
+    },
+    {
+      "name": "text_selected",
+      "value": "#42A5F5"
+    },
+    {
+      "name": "border_default",
+      "value": "#424242"
+    },
+    {
+      "name": "border_selected",
+      "value": "#42A5F5"
+    }
+  ]
+}
