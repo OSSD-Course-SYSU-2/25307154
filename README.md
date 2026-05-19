@@ -1,3 +1,4 @@
+<img width="226" height="504" alt="屏幕截图 2026-05-19 190017" src="https://github.com/user-attachments/assets/e218a5ec-ea93-4cc4-a755-197bcf21a546" />
 # CET4词汇记忆
 
 基于HarmonyOS NEXT (ArkUI) 开发的英语四级词汇记忆应用，通过四选一选择题帮助大学生高效记忆四级单词。
@@ -32,3 +33,8 @@
 - **数据持久化**：RDB关系型数据库 + Preferences轻量存储
 - **词库规模**：4700+条CET4核心词汇
 - **特性**：纯本地应用、深色模式适配、答题会话中断恢复
+
+
+<img width="236" height="517" alt="屏幕截图 2026-05-19 190057" src="https://github.com/user-attachments/assets/b316d41e-c105-496e-98ec-9734e0d39677" />
+<img width="232" height="499" alt="屏幕截图 2026-05-19 185948" src="https://github.com/user-attachments/assets/66dd8f64-475a-43fd-9d9b-6982e8bcc964" />
+<img width="226" height="504" alt="屏幕截图 2026-05-19 190017" src="https://github.com/user-attachments/assets/8949429c-3d29-4726-800f-bf12c08ce216" />
